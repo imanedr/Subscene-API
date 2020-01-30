@@ -27,11 +27,11 @@ There are to download mode in the API :
 	For Movie : [Movie Name] (Year) ==> for Example : The Lighthouse (2019)
 	For TV-Series : [Series Name] \ Season [Season Number] ==> For Example : Friends\Season 01
 ```
-
-	└───Friends
-   	 ├───Season 01
-   	 ├───Season 02
-    	 ├───Season 03
-    	 ├───Season 04
-    	 └───Season 05
-
+```
+└───Friends
+    ├───Season 01
+    ├───Season 02
+    ├───Season 03
+    ├───Season 04
+    └───Season 05
+```
