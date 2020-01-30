@@ -19,6 +19,28 @@ Powershell Subscene-API for downloading subtitles automatically from subscene.co
  	    └───Public
 ```
 # Usage
+```
+Get-Subtitle [[-SearchQuery] <string>] [-Type] <string> [-VideoDirectory] <string> [-Language] <string> [-AutoSelect] [<CommonParameters>]
+```
+##### SearchQuery
+Optional string parameter for a search query that will be submitted in the subscene.com, if you don't define it, it will be generated automatically
+##### Type
+Mandatory Autocomplete subtitle type parameter, it could be "Movie" or "TV-Series".
+#### VideoDirectory
+Mandatory string parameter it shoud point to the video files directory. For example :
+```
+D:\Videos\Movies\The Lighthouse (2019)\
+D:\Videos\TV-Series\Friends\Season 01\
+```
+#### Language
+Mandatory autocomplete string parameter that accepts these values :
+```
+Farsi/Persian
+English
+Arabic
+French
+```
+
 There are to download mode in the API :
 ### Autoselect Mode
 - Based on the folder naming tries to extract search keywords from Movie and TV-Series folders and download the best match for the selected
