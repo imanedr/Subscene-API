@@ -40,8 +40,8 @@ English
 Arabic
 French
 ```
-
-There are to download mode in the API :
+#### AutoSelect
+Optional switch parameter, if you enable it, the script tries to do all tasks without user interaction.
 ### Autoselect Mode
 - Based on the folder naming tries to extract search keywords from Movie and TV-Series folders and download the best match for the selected
 - For the best accuracy, the folder naming for Movie and TV-Series should be like this :
@@ -56,4 +56,19 @@ There are to download mode in the API :
     ├───Season 03
     ├───Season 04
     └───Season 05
+```
+#### Examples
+##### with SearchQuery :
+```
+Get-Subtitle -SearchQuery "The Lighthouse" -Type Movie -VideoDirectory 'D:\Videos\Movie\The Lighthouse (2019)\' -Language English -AutoSelect
+```
+##### Without SearchQuery :
+```
+Get-Subtitle -Type Movie -VideoDirectory 'D:\Videos\Movie\The Lighthouse (2019)\' -Language English -AutoSelect
+```
+##### Search for TV-Series
+```
+Get-Subtitle -SearchQuery "Friends - Season one" -Type TV-Series -VideoDirectory 'D:\Videos\TV-Series\Friends\Season 01\' -Language English -AutoSelect
+or
+Get-Subtitle -Type TV-Series -VideoDirectory 'D:\Videos\TV-Series\Friends\Season 01\' -Language English -AutoSelect
 ```
