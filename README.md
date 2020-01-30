@@ -21,18 +21,17 @@ Powershell Subscene-API for downloading subtitles automatically from subscene.co
 # Usage
 There are to download mode in the API :
 ### Autoselect Mode
-	* Based on the folder naming tries to extract search keywords from Movie and TV-Series folders and download the best match for the selected folder.
-	* For the best accuracy, the folder naming for Movie and TV-Series should be like this :
-	```
+- Based on the folder naming tries to extract search keywords from Movie and TV-Series folders and download the best match for the selected
+- For the best accuracy, the folder naming for Movie and TV-Series should be like this :
+```
 	For Movie : [Movie Name] (Year) ==> for Example : The Lighthouse (2019)
 	For TV-Series : [Series Name] \ Season [Season Number] ==> For Example : Friends\Season 01
-	```
-	test
-	```
+```
+
 	└───Friends
    	 ├───Season 01
    	 ├───Season 02
     	 ├───Season 03
     	 ├───Season 04
     	 └───Season 05
-	```
+
