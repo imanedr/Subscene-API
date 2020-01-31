@@ -139,20 +139,32 @@ Please select the correct title number from the list: 1
 Title : The Lighthouse
 Language : English
 
-  1- The.Lighthouse.2016.BDRiP.x264-GUACAMOLE
-     The.Lighthouse.2016.BDRiP.x264-GUACAMOLE
-     HI | Works with all BluRay/BDRip/BRRip versions -- Please don't reupload on Subscene and give credit where it's due. Thanks!
-  2- The.Lighthouse.2016.720p.BluRay.x264-GUACAMOLE
-     The.Lighthouse.2016.720p.BluRay.x264-GUACAMOLE
-     HI | Works with all BluRay/BDRip/BRRip versions -- Please don't reupload on Subscene and give credit where it's due. Thanks!
-  3- The.Lighthouse.2016.1080p.BluRay.x264-GUACAMOLE
-     The.Lighthouse.2016.1080p.BluRay.x264-GUACAMOLE
-     HI | Works with all BluRay/BDRip/BRRip versions -- Please don't reupload on Subscene and give credit where it's due. Thanks!
-  4- The.Lighthouse.2016.BRRip.XviD.MP3-XVID
-     The.Lighthouse.2016.BRRip.XviD.MP3-XVID
-     HI | Works with all BluRay/BDRip/BRRip versions -- Please don't reupload on Subscene and give credit where it's due. Thanks!
-  5- The.Lighthouse.2016.1080p.BluRay.x264.DTS-FGT
-     The.Lighthouse.2016.1080p.BluRay.x264.DTS-FGT
-     HI | Works with all BluRay/BDRip/BRRip versions -- Please don't reupload on Subscene and give credit where it's due. Thanks!
+  1- The.Lighthouse.2019.720p.BluRay.x264-[YTS.LT]
+     tonyjaimy
+     Non HI
+  2- The.Lighthouse.2019.1080p.BluRay.x264-[YTS.LT]
+     tonyjaimy
+     Non HI
+  3- The.Lighthouse.2019.720p.BluRay.x264-GECKOS
+     tonyjaimy
+     Non HI
+  4- The.Lighthouse.2019.1080p.BluRay.x264-GECKOS
+     tonyjaimy
+     Non HI
+  5- The.Lighthouse.2019.720p.BluRay.H264.AAC-RARBG_English
+     watchamovie
+     watchamovie
+  6- The.Lighthouse.2019.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON
+     SeriousSub
+     SeriousSub
+  7- The.Lighthouse.2019.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR
+     JOKR
+     JOKR
+  8- The.Lighthouse.2019.1080p.BluRay.x264-GECKOS
+     JOKR
+     JOKR
+  9- The.Lighthouse.2019.1080p.BluRay.H264.AAC-RARBG_English
+     watchamovie
+     watchamovie
 Please select the correct title number from the list: 1
 ```
