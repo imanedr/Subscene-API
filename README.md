@@ -1,8 +1,8 @@
 # Subscene-API
 Powershell Subscene-API for downloading subtitles automatically from subscene.com website
 # Features
-- Automatically Download Move or TV-Series Subtitles form the subscene.com website
-- Automatically rename subtitles to the vidoe file name 
+- Automatically Download Move or TV-Series Subtitles from the subscene.com website
+- Automatically rename subtitles to the video file name 
 - Automatically generate search keywords based on the folders structure
 - Manual search and download are also possible
 # Installation
@@ -28,11 +28,11 @@ Powershell Subscene-API for downloading subtitles automatically from subscene.co
 Get-Subtitle [[-SearchQuery] <string>] [-Type] <string> [-VideoDirectory] <string> [-Language] <string> [-AutoSelect] [<CommonParameters>]
 ```
 ##### SearchQuery
-Optional string parameter for a search query that will be submitted in the subscene.com, if you don't define it, it will be generated automatically
+Optional string parameter for a search query that will be submitted in the subscene.com; if you don't define it, it will be generated automatically
 ##### Type
-Mandatory Autocomplete subtitle type parameter, it could be "Movie" or "TV-Series".
+Mandatory Autocomplete subtitle type parameter, it could be "Movie" or "TV-Series."
 #### VideoDirectory
-Mandatory string parameter it shoud point to the video files directory. For example :
+Mandatory string parameter should point to the video files directory. For example :
 ```
 D:\Videos\Movies\The Lighthouse (2019)\
 D:\Videos\TV-Series\Friends\Season 01\
@@ -46,9 +46,9 @@ Arabic
 French
 ```
 #### AutoSelect
-Optional switch parameter, if you enable it, the script tries to do all tasks without user interaction.
+Optional switch parameter; if you enable it, the script tries to do all tasks without user interaction.
 ## Autoselect Mode
-- Based on the folder naming tries to extract search keywords from Movie and TV-Series folders and download the best match for the selected
+- Based on the folder naming, tries to extract search keywords from Movie and TV-Series folders and download the best match for the selected
 - For the best accuracy, the folder naming for Movie and TV-Series should be like this :
 ```
 	For Movie : [Movie Name] (Year) ==> for Example : The Lighthouse (2019)
@@ -136,8 +136,8 @@ Please select the correct title number from the list: 1
 ```
 #### Realse results page
 ```
-Title : The Lighthouse
-Language : English
+Title: The Lighthouse
+Language: English
 
   1- The.Lighthouse.2019.720p.BluRay.x264-[YTS.LT]
      tonyjaimy
