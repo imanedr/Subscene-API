@@ -134,7 +134,7 @@ Popular
      1 subtitles (Music Video)
 Please select the correct title number from the list: 1
 ```
-#### Realse results page
+#### Release Results Page
 ```
 Title: The Lighthouse
 Language: English
