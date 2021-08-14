@@ -10,7 +10,7 @@ Function HL_GET_Movie_Results
         $SelectedLink,
         [Parameter(Mandatory)]
         [ValidateNotNullOrEmpty()]
-        [ValidateSet('Farsi/Persian','English','Arabic','French')]
+        #[ValidateSet('Farsi/Persian','English','Arabic','French')]
         [string]$Language,
         [Parameter(Mandatory=$False)]
         [switch]$AutoSelect

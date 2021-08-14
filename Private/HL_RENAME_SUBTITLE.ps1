@@ -7,7 +7,7 @@ Function HL_RENAME_SUBTITLE
         [string]$VideoDirectory,
         [Parameter(Mandatory)]
         [ValidateNotNullOrEmpty()]
-        [ValidateSet('Farsi/Persian','English','Arabic','French')]
+        [ValidateSet('Farsi/Persian','English','Arabic','French','Indonesian')]
         [string]$Language,
         [Parameter(Mandatory)]
         [ValidateNotNullOrEmpty()]
@@ -21,6 +21,7 @@ Function HL_RENAME_SUBTITLE
         "English" {$EXTENSION=".en.srt"}
         "Arabic" {$EXTENSION=".ar.srt"}
         "French" {$EXTENSION=".fr.srt"}
+		"Indonesian" {$EXTENSION=".ind.srt"}
     }
     Write-Progress -Activity "Renaming Subtitles to vide file name..." 
 
