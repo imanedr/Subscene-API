@@ -32,7 +32,7 @@ Function Get-Subtitle
         [switch]$AutoSelect=$False,
         [Parameter(Mandatory)]
         [ValidateNotNullOrEmpty()]
-        [ValidateSet('Farsi/Persian','English','Arabic','French')]
+        [ValidateSet('Farsi/Persian','English','Arabic','French','Indonesian')]
         [string]$Language
     )
     #Constants
@@ -134,4 +134,4 @@ Function Get-Subtitle
             HL_RENAME_SUBTITLE -VideoDirectory $VideoDirectory -Language $Language -Type $Type
         }
 }
-#Export-ModuleMember -Function Get-Subtitle
+Export-ModuleMember -Function Get-Subtitle
